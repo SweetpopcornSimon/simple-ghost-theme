@@ -1,4 +1,5 @@
 # How-to 
+https://www.geekinsta.com/create-ghost-theme-from-scratch/
 
 ## Install Ghost
 ```

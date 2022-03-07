@@ -38,3 +38,12 @@ gscan /path/to/ghost/content/themes/casper
 * amp.hbs - optional theme template for AMP (Accelerated Mobile Pages). If your theme doesn't provide an amp.hbs file, Ghost will use its default.
   
  
+# GrapesJS
+GrapesJS is a multi-purpose, Web Builder Framework, which means it allows you to easily create a drag & drop enabled builder of "things". By "things" we mean anything with HTML-like structure https://www.npmjs.com/package/grapesjs
+  
+```
+$ git clone https://github.com/artf/grapesjs.git
+$ cd grapesjs
+$ npm install
+$ npm start
+```

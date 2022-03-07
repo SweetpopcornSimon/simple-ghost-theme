@@ -42,8 +42,6 @@ gscan /path/to/ghost/content/themes/casper
 GrapesJS is a multi-purpose, Web Builder Framework, which means it allows you to easily create a drag & drop enabled builder of "things". By "things" we mean anything with HTML-like structure https://www.npmjs.com/package/grapesjs
   
 ```
-$ git clone https://github.com/artf/grapesjs.git
-$ cd grapesjs
-$ npm install
-$ npm start
+npm i grapesjs-cli
+npx grapesjs-cli serve
 ```
